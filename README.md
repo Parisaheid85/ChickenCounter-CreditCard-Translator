@@ -4,6 +4,11 @@ Chicken Counter components will increment and decrement the counting numbers and
 CreditCard Component will also show the Credit card type by entering the card numbers in the input sec.
 Translator Component will replace the word "fruit" with the emoji of fruits.
 
+
+![Screen Shot 2022-02-03 at 9 22 28 am](https://user-images.githubusercontent.com/93959231/152671377-de4d82ad-45d9-4d56-8a2e-6d180ab6ebe9.png)
+
+
+
 This program was the first program that I have written with React Components which was really fun :)
 
 ## Available Scripts
