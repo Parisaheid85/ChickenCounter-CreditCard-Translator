@@ -1,4 +1,4 @@
-Three different components has been utilised with React Component which can be accessed on this link :http://localhost:3000
+Three different components has been utilised with React Componen.
 
 Chicken Counter components will increment and decrement the counting numbers and will be reset to "0" by reset button.
 CreditCard Component will also show the Credit card type by entering the card numbers in the input sec.
